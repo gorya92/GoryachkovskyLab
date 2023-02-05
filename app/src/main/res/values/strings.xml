@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KinopoiskLab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet_text">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+    <string name="retry">Повторить</string>
+</resources>
